@@ -1,0 +1,15 @@
+{
+  "name": "vscode-eslint-test",
+  "version": "1.0.0",
+  "description": "test for vscode-eslint nodePath",
+  "main": "test.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lrs/vscode-eslint-test.git"
+  },
+  "author": "lrs",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^1.10.3"
+  }
+}
